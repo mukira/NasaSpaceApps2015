@@ -1,0 +1,43 @@
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\obj\x86\Debug\JARVISV2.Form1.resources
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\obj\x86\Debug\JARVIS.Properties.Resources.resources
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\bin\Debug\JARVIS.exe
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\bin\Debug\JARVIS.pdb
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\obj\x86\Debug\JARVIS.exe
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\obj\x86\Debug\JARVIS.pdb
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\bin\Debug\JARVIS.exe.manifest
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\bin\Debug\JARVIS.application
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\obj\x86\Debug\JARVIS.exe.manifest
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\obj\x86\Debug\JARVIS.application
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\obj\x86\Debug\JARVIS.exe
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\obj\x86\Debug\JARVIS.pdb
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\bin\Debug\JARVIS.exe.manifest
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\bin\Debug\JARVIS.application
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\bin\Debug\JARVIS.exe
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\bin\Debug\JARVIS.pdb
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\obj\x86\Debug\JARVISV2.Form1.resources
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\obj\x86\Debug\JARVIS.Properties.Resources.resources
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\obj\x86\Debug\JARVIS.exe.manifest
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\obj\x86\Debug\JARVIS.application
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\bin\Debug\Commands.txt
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\obj\x86\Debug\JARVIS.exe
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\obj\x86\Debug\JARVIS.pdb
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\bin\Debug\Commands.txt
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\bin\Debug\JARVIS.exe.manifest
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\bin\Debug\JARVIS.application
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\bin\Debug\JARVIS.exe
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\bin\Debug\JARVIS.pdb
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\obj\x86\Debug\JARVIS.csprojResolveAssemblyReference.cache
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\obj\x86\Debug\JARVISV2.Form1.resources
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\obj\x86\Debug\JARVIS.Properties.Resources.resources
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\obj\x86\Debug\JARVIS.csproj.GenerateResource.Cache
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\obj\x86\Debug\JARVIS.exe.manifest
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\obj\x86\Debug\JARVIS.application
